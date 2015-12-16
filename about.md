@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a roboticist. I work at the Section for Automation and Control at Aalborg University. I love building robots and open source software.
 
-### More Information
+I teach ROS to our undergrads and occationally supervise student project groups.
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kdh@es.aau.dk](mailto:kdh@es.aau.dk)
