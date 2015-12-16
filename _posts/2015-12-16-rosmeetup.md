@@ -3,7 +3,6 @@ layout: post
 title: ROS Meet-up Denmark
 ---
 
-![ROS icon](http://wiki.ros.org/custom/images/ros_org.png)
 
 At ROSCon 2015, a handful of Danish ROS experts got together and decided that we should have a meet-up. It is going to happen at Aalborg University, and is going to be great! We will share our experiences with ROS and talk about our different projects. As far as I know, this is going to be the first ROS meet-up in Denmark. I hope that this can kick-start a national network of ROS experts in Denmark.
 
