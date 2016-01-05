@@ -22,8 +22,11 @@ Please consider presenting your work with ROS. This may be anything from a prese
 
 # Program
 10:30—12:00 Morning session
+
 12:00—13:00 Lunch
+
 13:00—13:30 Tour of the Automation and Control laboratories
+
 13:30—15:30 Afternoon session
 
 *We hope to see you in Aalborg in February.
