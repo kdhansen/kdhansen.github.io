@@ -29,7 +29,7 @@ Please consider presenting your work with ROS. This may be anything from a prese
 
 13:30—15:30 Afternoon session
 
-*We hope to see you in Aalborg in February.
+*We hope to see you in Aalborg in February.*
 
-Robotic regards,
-Karl Damkjær Hansen*
+*Robotic regards,*
+*Karl Damkjær Hansen*
